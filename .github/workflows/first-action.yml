@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print greeting
-      - run: echo "Greetings from Spain"
+        run: echo "Greetings from Spain"
       - name: Print goodbye
-      - run: echo "Goodbye from Northway"
+        run: echo "Goodbye from Northway"
